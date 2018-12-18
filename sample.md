@@ -5,6 +5,8 @@ title: Sample page
 
 # This is a Sample Page
 
+This is a sample edit.
+
 Speech by Mr Heng Swee Keat, Minister for Finance at the Singapore Manufacturing Federation (SMF) Awards and 86th Anniversary Dinner, 26 September 2018, 8:00pm at Resorts World Sentosa
 
 Excellencies, Ambassadors, High Commissioners
